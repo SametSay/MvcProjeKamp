@@ -9,4 +9,4 @@ Samet Say - [SametSay](https://github.com/SametSay)
 
 ## Yetenek Page
 
-![mvc-admin](https://raw.githubusercontent.com/SametSay/MvcProject/master/MvcProje/SS/yetenek-sayfasi.png)
+![mvc-admin](https://raw.githubusercontent.com/SametSay/MvcProject/master/yetenek-sayfasi.png)
